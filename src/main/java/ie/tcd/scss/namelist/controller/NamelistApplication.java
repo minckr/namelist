@@ -1,4 +1,4 @@
-package ie.tcd.scss.namelist.controller.NamelistController;
+package ie.tcd.scss.namelist.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
